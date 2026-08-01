@@ -17,17 +17,18 @@ The subjects vary. The method does not: make hidden behaviour visible, preserve 
 ### Accessible synthesis and learning
 
 - [Sample Hold Lab](https://github.com/armpitpete/sample-hold-lab) — a browser workbench for seeing how Sample & Hold, Track & Hold, slew, jitter, and related control-voltage behaviour work.
-- [Merrin Voice 01](https://github.com/armpitpete/merrin-voice-01) — a focused Web Audio synthesizer exploring one constrained emotional voice through an accessible interface.
+- [Merrin Grief Synth](https://github.com/armpitpete/merrin-voice-01) — a focused Web Audio synthesizer and hardware-development project exploring one constrained emotional voice.
+- [Merrin Open Synth Standards](https://github.com/armpitpete/merrin-open-synth-standards) — reusable interface and behaviour standards for clearer software instruments.
+- [MerrinLab 16-Step Sequencer](https://github.com/armpitpete/merrinlab-16-step-sequencer) — a browser sequencer exploring clear digital, classic and hybrid control layouts.
 
-### Evidence and project systems
+### Public tools and experiments
 
-- [Story Evidence Collector](https://github.com/armpitpete/story-evidence-collector) — public-source research tooling that preserves provenance, uncertainty, and human review.
-- [Project Status Engine](https://github.com/armpitpete/project-status-engine) — authority-backed activity and completion reporting across GitHub repositories.
-- [Project Folder Checker](https://github.com/armpitpete/project-folder-checker) — practical checks for missing project structure, documentation, and operational files.
+- [Over My Home](https://github.com/armpitpete/over-my-home) — an accessible local-sky instrument showing aircraft near a chosen area with visual and sound-likelihood cues.
+- [Evergreen Home Control](https://github.com/armpitpete/evergreen-home-control) — a local-first smart-home command-centre project built around understandable, repairable and privacy-conscious control.
 
 ### Accessible public publishing
 
-- [Vaelinya Site](https://github.com/armpitpete/vaelinya-site) — an accessible public doorway into stories, language, worldbuilding, and learning materials.
+- [Vaelinya Site](https://github.com/armpitpete/vaelinya-site) — an accessible public doorway into stories, language, worldbuilding and learning materials.
 
 ## Common design principles
 
@@ -36,12 +37,12 @@ My projects generally aim to:
 1. explain the system before asking someone to operate it;
 2. separate evidence from inference;
 3. make status and boundaries explicit;
-4. support slower, non-linear, and neurodivergent ways of working;
+4. support slower, non-linear and neurodivergent ways of working;
 5. leave behind documentation that another person can actually use.
 
 ## Current focus
 
-Current public work centres on accessible synthesis tools, evidence-preserving research systems, and reliable project-maintenance infrastructure.
+Current public work centres on accessible synthesis tools, local-first public applications and accessible publishing. Private repositories contain unpublished writing, internal research, infrastructure and project-control work that is not presented here as open source.
 
 ## Links
 
